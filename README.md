@@ -43,13 +43,13 @@ Medical-Prediction-Project/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/lonehadi709-png/MediPredict.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd Medical-Prediction-Project
+cd MediPredict
 ```
 
 3. Create and activate a virtual environment:
